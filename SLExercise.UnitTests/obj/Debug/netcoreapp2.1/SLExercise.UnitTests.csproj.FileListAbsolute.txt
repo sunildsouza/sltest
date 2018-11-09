@@ -1,0 +1,17 @@
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExercise.UnitTests.deps.json
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExercise.UnitTests.runtimeconfig.json
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExercise.UnitTests.runtimeconfig.dev.json
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExercise.UnitTests.dll
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExercise.UnitTests.pdb
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.csprojAssemblyReference.cache
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.csproj.CoreCompileInputs.cache
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.AssemblyInfoInputs.cache
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.AssemblyInfo.cs
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.dll
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.pdb
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExcercise.dll
+C:\Sunil\Navico\SLExercise.UnitTests\bin\Debug\netcoreapp2.1\SLExcercise.pdb
+C:\Sunil\Navico\SLExercise.UnitTests\obj\Debug\netcoreapp2.1\SLExercise.UnitTests.csproj.CopyComplete

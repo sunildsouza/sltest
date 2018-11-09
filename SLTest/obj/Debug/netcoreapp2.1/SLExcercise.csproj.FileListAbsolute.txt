@@ -1,0 +1,8 @@
+C:\Sunil\Navico\SLTest\obj\Debug\netcoreapp2.1\SLExcercise.csproj.CoreCompileInputs.cache
+C:\Sunil\Navico\SLTest\obj\Debug\netcoreapp2.1\SLExcercise.AssemblyInfoInputs.cache
+C:\Sunil\Navico\SLTest\obj\Debug\netcoreapp2.1\SLExcercise.AssemblyInfo.cs
+C:\Sunil\Navico\SLTest\bin\Debug\netcoreapp2.1\SLExcercise.deps.json
+C:\Sunil\Navico\SLTest\bin\Debug\netcoreapp2.1\SLExcercise.dll
+C:\Sunil\Navico\SLTest\bin\Debug\netcoreapp2.1\SLExcercise.pdb
+C:\Sunil\Navico\SLTest\obj\Debug\netcoreapp2.1\SLExcercise.dll
+C:\Sunil\Navico\SLTest\obj\Debug\netcoreapp2.1\SLExcercise.pdb
